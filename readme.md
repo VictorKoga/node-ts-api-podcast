@@ -1,6 +1,5 @@
 # API de Podcasts com Node.js e TypeScript 🎙️
-
-Este projeto é uma API para gerenciar podcasts, construída com **Node.js** e **TypeScript**, que segue uma arquitetura organizada com pastas separadas para **controllers**, **models**, **repositories**, **services**, **routes** e **utils**.
+Este projeto demonstra minhas habilidades no desenvolvimento backend e mostra como utilizo **Node.js**, **TypeScript**, **TSX** e **TSUP** para criar **APIs RESTful** eficientes, focadas em leitura e filtragem de dados, é uma API para gerenciar podcasts, que segue uma arquitetura organizada com pastas separadas para **controllers**, **models**, **repositories**, **services**, **routes** e **utils**.
 
 ## 📂 Estrutura de Pastas
 
@@ -39,7 +38,8 @@ Este projeto é uma API para gerenciar podcasts, construída com **Node.js** e *
 
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) **Node.js**: Plataforma para execução de código JavaScript no servidor.
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) **TypeScript**: Superset de JavaScript que adiciona tipagem estática e outros recursos avançados.
-
+- ![TSX](https://img.shields.io/badge/TSX-007ACC?style=for-the-badge&logo=typescript&logoColor=white) **TSX**: Facilita a execução direta de arquivos TypeScript sem a necessidade de compilar previamente.
+- ![TSUP](https://img.shields.io/badge/TSUP-FF7B29?style=for-the-badge) **TSUP**: Ferramenta de build rápida e eficiente para TypeScript, que otimiza o tempo de build.
 
 ## 📂 Descrição dos Diretórios
 
